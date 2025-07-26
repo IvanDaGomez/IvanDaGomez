@@ -1,6 +1,5 @@
-# IvanDaGomez
 
-<h1 align="center">Hi 👋, I'm Ivan DaGomez</h1>
+# <h1 align="center">Hi 👋, I'm Ivan DaGomez</h1>
 
 <p>Need freelance? <a style="color: purple" href="mailto:ivandavidgomezsilva@hotmail.com">Email me</a></p>
 

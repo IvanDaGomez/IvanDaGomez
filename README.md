@@ -55,17 +55,17 @@ No activity tracked
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### Backend & Database
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <!-- <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -79,12 +79,22 @@ No activity tracked
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+## Deployment & CI/CD
+<p align="center">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="Hostinger" src="https://img.shields.io/badge/-Hostinger-FF6600?style=flat-square&logo=hostinger&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  
+</p>
+
 ## 🎯 **Recent Activity**
+- Created repository in IvanDaGomez&#x2F;IvanDaGomez *3 hours ago*
+- Created branch in IvanDaGomez&#x2F;IvanDaGomez *3 hours ago*
+- Created branch in IvanDaGomez&#x2F;skills-introduction-to-github *3 hours ago*
+- Created repository in IvanDaGomez&#x2F;skills-introduction-to-github *3 hours ago*
 - Starred flutter&#x2F;samples *12 days ago*
-- Created branch in IvanDaGomez&#x2F;librosSinTitulo *16 days ago*
-- Created repository in IvanDaGomez&#x2F;librosSinTitulo *16 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;BookStore *17 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;fedevolei *21 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -108,11 +118,11 @@ No activity tracked
   <a href="https://github.com/IvanDaGomez" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ivandagomez" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-gomez-08041b328" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ivandavidgomezsilva@hotmail.com" target="_blank">
-    <img alt="Email" style="color: blue" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=blue" />
+    <img alt="Email" style="color: white" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -132,7 +142,7 @@ No activity tracked
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, July 25th 2025, 9:05 PM</i><br/>
+  <i>Last refresh: Saturday, July 26th 2025, 2:18 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

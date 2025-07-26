@@ -29,7 +29,7 @@ async function setWeatherInformation() {
   try {
     // Change 'madrid' to your preferred city
     const response = await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=madrid&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=bogota&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     );
     const data = await response.json();
     

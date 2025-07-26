@@ -1,4 +1,4 @@
-name: Waka Update Profile
+name: Waka Update
 
 on:
   workflow_dispatch:

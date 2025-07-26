@@ -1,17 +1,26 @@
-name: Waka Update
+name: Actualizar WakaTime en README
 
 on:
-  push:
-    branches: [ "main" ]
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *" # Cada 2 horas
+  workflow_dispatch: # Permitir ejecución manual
 
 jobs:
   update-readme:
+    name: Actualiza las stats de WakaTime
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Clona el repositorio
+        uses: actions/checkout@v3
+
+      - name: Ejecuta waka-readme
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          STOP_AT_OTHER: true

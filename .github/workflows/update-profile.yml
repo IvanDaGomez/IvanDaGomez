@@ -1,6 +1,9 @@
 name: Actualizar WakaTime en README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 */2 * * *" # Cada 2 horas
   workflow_dispatch: # Permitir ejecución manual

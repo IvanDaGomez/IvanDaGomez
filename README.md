@@ -1,4 +1,8 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# IvanDaGomez
+
+<h1 align="center">Hi 👋, I'm Ivan DaGomez</h1>
+
+<p>Need freelance? <a style="color: purple" href="mailto:ivandavidgomezsilva@hotmail.com">Email me</a></p>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -19,27 +23,23 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
+🏆  8,004 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 673 tasks so far
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -79,6 +79,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
 <h3>Where to find me</h3>
+
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 

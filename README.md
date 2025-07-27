@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-Total Time: 1 hr 13 mins
+Total Time: 7 hrs 59 mins
 
-Markdown     38 mins         █████████████▒░░░░░░░░░░░   53.17 %
-JavaScript   17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-YAML         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Mustache     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Dart         3 hrs 23 mins   ██████████▓░░░░░░░░░░░░░░   42.28 %
+TypeScript   2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Markdown     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Docker       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Mustache     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->

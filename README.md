@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Total Time: 5 hrs 51 mins
+Total Time: 6 hrs 34 mins
 
-Python       3 hrs 21 mins   ██████████████▒░░░░░░░░░░   57.51 %
-Dart         1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-CocoaPods    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python       4 hrs 4 mins    ███████████████▒░░░░░░░░░   61.84 %
+Dart         1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CocoaPods    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->

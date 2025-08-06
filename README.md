@@ -97,11 +97,11 @@ Text         2 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
+- Created branch in IvanDaGomez&#x2F;Machine-Learning *2 hours ago*
+- Public in IvanDaGomez&#x2F;Deep-Learning *2 hours ago*
+- Created repository in IvanDaGomez&#x2F;Machine-Learning *2 hours ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;Deep-Learning *3 hours ago*
 - Starred TheRobotStudio&#x2F;HOPEJr *8 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *10 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *11 days ago*
-- Pushed 3 commits to IvanDaGomez&#x2F;IvanDaGomez *11 days ago*
-- Pushed 2 commits to IvanDaGomez&#x2F;IvanDaGomez *11 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -110,12 +110,12 @@ Text         2 mins          ░░░░░░░░░░░░░░░░░
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
+| **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[BookStore](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;BookStore)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[fedevolei](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;fedevolei)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[Portfolio](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Portfolio)** | A cool project I&#39;m working on | JavaScript | 0 |
 
 </div>
 
@@ -149,7 +149,7 @@ Text         2 mins          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Tuesday, August 5th 2025, 9:07 PM</i><br/>
+  <i>Last refresh: Wednesday, August 6th 2025, 12:34 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

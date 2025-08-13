@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">Need freelance? <a style="" href="mailto:ivandavidgomezsilva@hotmail.com">Email me</a></p>
-<p align="center">Or <a style="color: red" href="https://www.ivangomez.dev">See my Portfolio</a></p>
+<p align="center">Or <a style="color: red" href="https://ivangomez.dev">See my Portfolio</a></p>
 
 ## 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
@@ -101,7 +101,7 @@ JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░
 - Public in IvanDaGomez&#x2F;Deep-Learning *7 days ago*
 - Created repository in IvanDaGomez&#x2F;Machine-Learning *7 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;Deep-Learning *7 days ago*
-- Starred TheRobotStudio&#x2F;HOPEJr *15 days ago*
+- Starred TheRobotStudio&#x2F;HOPEJr *16 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -149,7 +149,7 @@ JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Wednesday, August 13th 2025, 3:31 AM</i><br/>
+  <i>Last refresh: Wednesday, August 13th 2025, 6:38 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

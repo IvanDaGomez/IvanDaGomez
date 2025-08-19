@@ -11,16 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-Total Time: 8 hrs 42 mins
+Total Time: 8 hrs 8 mins
 
-Dart         7 hrs 11 mins   ████████████████████▓░░░░   82.23 %
-TypeScript   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Markdown     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Dart         7 hrs 11 mins   ██████████████████████░░░   87.94 %
+Markdown     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 

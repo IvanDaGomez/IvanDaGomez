@@ -11,13 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-Total Time: 8 hrs 58 mins
+Total Time: 10 hrs 48 mins
 
-Dart     8 hrs 55 mins   ████████████████████████▓   99.31 %
-Git      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart     8 hrs 55 mins   ████████████████████▓░░░░   82.60 %
+Python   1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Git      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

@@ -27,7 +27,7 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 ## 🌟 **GitHub Stats**
 <div align="center">
   
-![Followers](https://img.shields.io/badge/Followers-2-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-6-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github)
 
@@ -146,7 +146,7 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Monday, August 25th 2025, 12:31 AM</i><br/>
+  <i>Last refresh: Monday, August 25th 2025, 3:28 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

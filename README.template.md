@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">Need freelance? <a style="" href="mailto:ivandavidgomezsilva@hotmail.com">Email me</a></p>
-<p align="center">Or <a style="color: red" href="https://ivangomez.dev">See my Portfolio</a></p>
+<p align="center">Or <a style="color: red" href="https://www.ivangomez.dev">See my Portfolio</a></p>
 
 ## 📊 **This week I spent my time on:**
 {{{waka_stats}}}

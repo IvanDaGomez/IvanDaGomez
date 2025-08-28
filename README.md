@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">Need freelance? <a style="" href="mailto:ivandavidgomezsilva@hotmail.com">Email me</a></p>
-<p align="center">Or <a style="color: red" href="https://www.ivangomez.dev">See my Portfolio</a></p>
+<p align="center">Or <a style="color: red" href="https://ivangomez.dev">See my Portfolio</a></p>
 
 ## 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
@@ -28,7 +28,7 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 <div align="center">
   
 ![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)
-![Following](https://img.shields.io/badge/Following-6-blue?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-7-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github)
 
 </div>
@@ -146,7 +146,7 @@ Docker   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Thursday, August 28th 2025, 3:21 AM</i><br/>
+  <i>Last refresh: Thursday, August 28th 2025, 6:10 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

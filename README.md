@@ -92,11 +92,9 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *7 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *7 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *8 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *8 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *23 days ago*
-- Created branch in IvanDaGomez&#x2F;Machine-Learning *a month ago*
-- Public in IvanDaGomez&#x2F;Deep-Learning *a month ago*
 
 
 ## 🎨 **Featured Projects**
@@ -144,7 +142,7 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, September 5th 2025, 3:18 AM</i><br/>
+  <i>Last refresh: Friday, September 5th 2025, 9:07 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

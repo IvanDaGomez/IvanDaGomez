@@ -27,7 +27,7 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
   
 ![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-7-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge&logo=github)
 
 </div>
 
@@ -103,12 +103,12 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
+| **[RASTalleres](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;RASTalleres)** | Talleres de RAS | Jupyter Notebook | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[BookStore](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;BookStore)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[fedevolei](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;fedevolei)** | A cool project I&#39;m working on | JavaScript | 0 |
 
 </div>
 
@@ -142,7 +142,7 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, September 5th 2025, 3:07 PM</i><br/>
+  <i>Last refresh: Friday, September 5th 2025, 6:09 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

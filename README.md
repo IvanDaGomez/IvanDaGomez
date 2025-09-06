@@ -25,7 +25,7 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 ## 🌟 **GitHub Stats**
 <div align="center">
   
-![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-4-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-7-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge&logo=github)
 
@@ -92,9 +92,10 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
+- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *3 hours ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *9 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *9 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *24 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *25 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -142,7 +143,7 @@ Git    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Saturday, September 6th 2025, 6:08 PM</i><br/>
+  <i>Last refresh: Saturday, September 6th 2025, 9:06 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 06 September 2025
+From: 31 August 2025 - To: 07 September 2025
 
-Total Time: 11 hrs 6 mins
+Total Time: 6 hrs 4 mins
 
-Dart   11 hrs 5 mins   █████████████████████████   99.76 %
-YAML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart   6 hrs 3 mins    █████████████████████████   99.68 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->

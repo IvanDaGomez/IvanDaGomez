@@ -95,10 +95,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
-- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *a day ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *a day ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *10 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *10 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *2 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *2 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *11 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *11 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *a month ago*
 
 
@@ -108,7 +108,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
-| **[RASTalleres](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;RASTalleres)** | Talleres de RAS | Jupyter Notebook | 0 |
+| **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
@@ -147,7 +147,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Monday, September 8th 2025, 3:23 AM</i><br/>
+  <i>Last refresh: Monday, September 8th 2025, 12:12 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

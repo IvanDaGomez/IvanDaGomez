@@ -98,8 +98,8 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *2 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *2 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *3 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *3 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *12 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;RASTalleres *4 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;IvanDaGomez *13 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -147,7 +147,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Wednesday, September 10th 2025, 3:15 AM</i><br/>
+  <i>Last refresh: Wednesday, September 10th 2025, 9:08 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

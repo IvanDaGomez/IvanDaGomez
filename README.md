@@ -92,9 +92,9 @@ Git      0 secs          ░░░░░░░░░░░░░░░░░░�
 </p>
 
 ## 🎯 **Recent Activity**
-- Pushed 1 commit to IvanDaGomez&#x2F;Machine-Learning *10 hours ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *16 hours ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *17 hours ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;Machine-Learning *13 hours ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *19 hours ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *20 hours ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *8 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *8 days ago*
 
@@ -105,8 +105,8 @@ Git      0 secs          ░░░░░░░░░░░░░░░░░░�
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
-| **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 0 |
+| **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
@@ -144,7 +144,7 @@ Git      0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Tuesday, September 16th 2025, 12:12 PM</i><br/>
+  <i>Last refresh: Tuesday, September 16th 2025, 3:07 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

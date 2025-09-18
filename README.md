@@ -91,7 +91,7 @@ Other    17 mins         ███▒░░░░░░░░░░░░░░�
 </p>
 
 ## 🎯 **Recent Activity**
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *26 minutes ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *4 hours ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *a day ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *a day ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;Machine-Learning *2 days ago*
@@ -104,7 +104,7 @@ Other    17 mins         ███▒░░░░░░░░░░░░░░�
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
-| **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 0 |
+| **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 1 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
@@ -143,7 +143,7 @@ Other    17 mins         ███▒░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Wednesday, September 17th 2025, 9:06 PM</i><br/>
+  <i>Last refresh: Thursday, September 18th 2025, 12:28 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

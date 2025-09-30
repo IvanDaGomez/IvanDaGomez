@@ -97,6 +97,11 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
+- Starred huggingface&#x2F;deep-rl-class *4 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *13 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *14 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *14 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;Machine-Learning *15 days ago*
 
 
 ## 🎨 **Featured Projects**
@@ -144,7 +149,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Tuesday, September 30th 2025, 6:10 PM</i><br/>
+  <i>Last refresh: Tuesday, September 30th 2025, 9:06 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

@@ -30,6 +30,9 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ## 🌟 **GitHub Stats**
 <div align="center">
   
+![Followers](https://img.shields.io/badge/Followers-4-blue?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-8-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge&logo=github)
 
 </div>
 
@@ -94,10 +97,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 
 ## 🎯 **Recent Activity**
-- Starred huggingface&#x2F;deep-rl-class *4 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *13 days ago*
+- Starred huggingface&#x2F;deep-rl-class *5 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *14 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *14 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *15 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *15 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;Machine-Learning *15 days ago*
 
 
@@ -107,6 +110,12 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
+| **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 1 |
+| **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
+| **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
+| **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
+| **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
+| **[BookStore](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;BookStore)** | A cool project I&#39;m working on | JavaScript | 0 |
 
 </div>
 
@@ -140,7 +149,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Wednesday, October 1st 2025, 3:26 AM</i><br/>
+  <i>Last refresh: Wednesday, October 1st 2025, 9:08 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

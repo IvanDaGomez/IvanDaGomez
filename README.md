@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2025 - To: 30 September 2025
+From: 24 September 2025 - To: 01 October 2025
 
-Total Time: 4 hrs 18 mins
+Total Time: 3 hrs 30 mins
 
-TypeScript   1 hr 27 mins    ████████▒░░░░░░░░░░░░░░░░   33.96 %
-Python       1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.58 %
-C++          40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-JavaScript   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-CSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python       2 hrs 33 mins   ██████████████████▒░░░░░░   72.99 %
+TypeScript   25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+C++          22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->

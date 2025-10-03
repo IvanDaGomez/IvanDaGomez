@@ -11,18 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2025 - To: 02 October 2025
+From: 26 September 2025 - To: 03 October 2025
 
-Total Time: 2 hrs 50 mins
+Total Time: 2 hrs 22 mins
 
-Python       2 hrs 22 mins   █████████████████████░░░░   83.61 %
-C++          16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       2 hrs 18 mins   ████████████████████████▒   97.31 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

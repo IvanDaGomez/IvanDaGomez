@@ -91,10 +91,10 @@ No activity tracked
 
 ## 🎯 **Recent Activity**
 - Pushed 1 commit to IvanDaGomez&#x2F;AI *9 days ago*
-- Starred huggingface&#x2F;deep-rl-class *15 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *24 days ago*
+- Starred huggingface&#x2F;deep-rl-class *16 days ago*
 - Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *25 days ago*
-- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *25 days ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *a month ago*
+- Pushed 1 commit to IvanDaGomez&#x2F;chatGPTDesdeCero *a month ago*
 
 
 ## 🎨 **Featured Projects**
@@ -142,7 +142,7 @@ No activity tracked
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Sunday, October 12th 2025, 3:21 AM</i><br/>
+  <i>Last refresh: Sunday, October 12th 2025, 9:06 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

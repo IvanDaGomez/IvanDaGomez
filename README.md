@@ -11,12 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 1 hr 4 mins
+Total Time: 1 hr 9 mins
 
-C#    1 hr 4 mins     █████████████████████████   99.93 %
-XML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#       1 hr 4 mins     ███████████████████████░░   92.66 %
+Python   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

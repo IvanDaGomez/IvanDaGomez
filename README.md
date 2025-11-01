@@ -11,16 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 4 hrs 57 mins
+Total Time: 4 hrs 15 mins
 
-TypeScript   3 hrs 9 mins    ████████████████░░░░░░░░░   63.73 %
-Python       1 hr 34 mins    ████████░░░░░░░░░░░░░░░░░   31.65 %
-C++          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   3 hrs 11 mins   ██████████████████▓░░░░░░   74.86 %
+Python       56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+CSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

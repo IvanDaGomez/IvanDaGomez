@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 2 hrs 28 mins
+Total Time: 1 hr 25 mins
 
-Python   2 hrs 21 mins   ████████████████████████░   95.60 %
-CSV      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python   1 hr 25 mins    █████████████████████████   99.85 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

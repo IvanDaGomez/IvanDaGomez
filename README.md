@@ -26,7 +26,7 @@ CSV      0 secs          ░░░░░░░░░░░░░░░░░░�
   
 ![Followers](https://img.shields.io/badge/Followers-4-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-8-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-21-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-22-blue?style=for-the-badge&logo=github)
 
 </div>
 
@@ -99,12 +99,12 @@ CSV      0 secs          ░░░░░░░░░░░░░░░░░░�
   
 | Project | Description | Tech Stack | ⭐ Stars |
 |---------|-------------|------------|----------|
+| **[expoandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;expoandes)** | ExpoAndes repo for documentation | TypeScript | 0 |
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 1 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[AI](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;AI)** | A cool project I&#39;m working on | Jupyter Notebook | 0 |
 
 </div>
 
@@ -138,7 +138,7 @@ CSV      0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Monday, November 10th 2025, 9:09 AM</i><br/>
+  <i>Last refresh: Monday, November 10th 2025, 12:13 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

@@ -104,8 +104,8 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[chatGPTDesdeCero](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;chatGPTDesdeCero)** | Talleres de RAS | Jupyter Notebook | 1 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
-| **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
+| **[librosSinTitulo](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;librosSinTitulo)** | A cool project I&#39;m working on | JavaScript | 0 |
 
 </div>
 
@@ -139,7 +139,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, November 14th 2025, 12:13 PM</i><br/>
+  <i>Last refresh: Friday, November 14th 2025, 3:08 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

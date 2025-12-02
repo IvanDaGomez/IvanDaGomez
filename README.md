@@ -11,11 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Total Time: 0 secs
+Total Time: 17 mins
 
-Other        0 secs          ███████████░░░░░░░░░░░░░░   44.08 %
+Python       17 mins         ████████████████████████▓   99.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->

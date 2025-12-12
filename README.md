@@ -49,6 +49,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+
 </p>
 
 ### Frontend Development
@@ -69,6 +71,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <!-- <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python ML" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
 </p>
 
 ### Tools & Others
@@ -79,6 +84,15 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="ROS2" src="https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="Gazebo" src="https://img.shields.io/badge/-Gazebo-FF6A00?style=flat-square&logo=gazebo&logoColor=white" />
+  <img alt="RViz" src="https://img.shields.io/badge/-RViz-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="Reinforcement Learning" src="https://img.shields.io/badge/-Reinforcement%20Learning-8A2BE2?style=flat-square&logo=python&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+
 </p>
 
 ## Deployment & CI/CD
@@ -88,7 +102,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <img alt="Hostinger" src="https://img.shields.io/badge/-Hostinger-FF6600?style=flat-square&logo=hostinger&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  
+  <img alt="Caddy" src="https://img.shields.io/badge/-Caddy-1F88C9?style=flat-square&logo=caddy&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
 </p>
 
 ## 🎯 **Recent Activity**
@@ -139,7 +156,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, December 12th 2025, 9:07 PM</i><br/>
+  <i>Last refresh: Friday, December 12th 2025, 9:17 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Total Time: 4 hrs 37 mins
+Total Time: 7 hrs 10 mins
 
-HTML          2 hrs 27 mins   █████████████▒░░░░░░░░░░░   53.00 %
-Markdown      1 hr 40 mins    █████████░░░░░░░░░░░░░░░░   36.31 %
-CSS           17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Python        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JSON          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML          2 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
+Markdown      1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+JavaScript    1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+CSS           45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+JSON          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Text          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Python        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->

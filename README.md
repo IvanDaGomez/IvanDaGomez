@@ -11,13 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 28 hrs 12 mins
+Total Time: 33 hrs 52 mins
 
-JavaScript   17 hrs 28 mins  ██████████████▒░░░░░░░░░░   57.48 %
-Python       3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Other        2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+JavaScript   21 hrs 33 mins  ███████████████▒░░░░░░░░░   60.95 %
+Python       5 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Bash         1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Other        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->

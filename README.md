@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2025 - To: 03 January 2026
+From: 28 December 2025 - To: 04 January 2026
 
-Total Time: 52 hrs 13 mins
+Total Time: 51 hrs 5 mins
 
-JavaScript    33 hrs 24 mins  ███████████████▒░░░░░░░░░   61.53 %
-Python        12 hrs 11 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-Other         2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+JavaScript    33 hrs 43 mins  ████████████████░░░░░░░░░   63.58 %
+Python        11 hrs 48 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+Other         1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->

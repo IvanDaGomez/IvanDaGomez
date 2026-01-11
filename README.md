@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 42 hrs 57 mins
+Total Time: 46 hrs 17 mins
 
-JavaScript    23 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.62 %
-Python        11 hrs 16 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-SQL           2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Other         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JavaScript   25 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.58 %
+Python       12 hrs 54 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+SQL          2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Other        1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->

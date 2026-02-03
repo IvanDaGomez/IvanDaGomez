@@ -11,13 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2026 - To: 02 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
-Total Time: 29 hrs 35 mins
+Total Time: 23 hrs 51 mins
 
-JavaScript   17 hrs 54 mins  ███████████████░░░░░░░░░░   59.60 %
-Python       10 hrs 36 mins  ████████▓░░░░░░░░░░░░░░░░   35.33 %
-Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript   14 hrs 54 mins  ███████████████▒░░░░░░░░░   61.64 %
+Python       8 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.31 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->

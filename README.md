@@ -11,17 +11,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Total Time: 13 hrs 51 mins
+Total Time: 12 hrs 9 mins
 
-JavaScript   11 hrs 5 mins   ████████████████████░░░░░   80.05 %
-Python       2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Git          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   9 hrs 42 mins   ████████████████████░░░░░   79.83 %
+Python       2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+SQL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Git          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

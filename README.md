@@ -11,18 +11,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 9 hrs 47 mins
+Total Time: 16 hrs 31 mins
 
-JavaScript   6 hrs 19 mins         ████████████████▒░░░░░░░░   64.69 %
-Python       1 hr 39 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-SQL          37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-YAML         37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-HTML         14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Text         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-TypeScript   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Git          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript   7 hrs 9 mins          ███████████░░░░░░░░░░░░░░   43.35 %
+TypeScript   3 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+Python       3 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+YAML         38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+SQL          37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Text         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+HTML         17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->

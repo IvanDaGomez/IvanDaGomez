@@ -30,7 +30,7 @@ Git Config   17 mins               ▒░░░░░░░░░░░░░░
 ## 🌟 **GitHub Stats**
 <div align="center">
   
-![Followers](https://img.shields.io/badge/Followers-5-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-6-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-10-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-22-blue?style=for-the-badge&logo=github)
 
@@ -161,7 +161,7 @@ Git Config   17 mins               ▒░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Sunday, March 8th 2026, 12:15 PM</i><br/>
+  <i>Last refresh: Sunday, March 8th 2026, 3:09 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

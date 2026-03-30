@@ -11,18 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 23 March 2026 - To: 30 March 2026
 
-Total Time: 7 hrs 23 mins
+Total Time: 2 hrs 50 mins
 
-TypeScript   7 hrs 13 mins         ████████████████████████▒   97.63 %
-JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-CSS          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-HTTP         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   2 hrs 49 mins         ████████████████████████▓   99.32 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

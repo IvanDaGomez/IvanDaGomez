@@ -28,7 +28,7 @@ Other    0 secs                ░░░░░░░░░░░░░░░░�
   
 ![Followers](https://img.shields.io/badge/Followers-6-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-11-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-23-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-24-blue?style=for-the-badge&logo=github)
 
 </div>
 
@@ -122,8 +122,8 @@ Other    0 secs                ░░░░░░░░░░░░░░░░�
 | **[expoandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;expoandes)** | ExpoAndes repo for documentation | TypeScript | 0 |
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
+| **[3d_world](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;3d_world)** | A cool project I&#39;m working on | CSS | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[ros2_tutorial](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;ros2_tutorial)** | A cool project I&#39;m working on | Python | 0 |
 
 </div>
 
@@ -157,7 +157,7 @@ Other    0 secs                ░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Tuesday, June 23rd 2026, 6:51 PM</i><br/>
+  <i>Last refresh: Tuesday, June 23rd 2026, 9:38 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

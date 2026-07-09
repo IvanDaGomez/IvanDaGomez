@@ -28,7 +28,7 @@ Other        40 mins               ▒░░░░░░░░░░░░░░
   
 ![Followers](https://img.shields.io/badge/Followers-7-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-11-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-25-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-24-blue?style=for-the-badge&logo=github)
 
 </div>
 
@@ -123,7 +123,7 @@ Other        40 mins               ▒░░░░░░░░░░░░░░
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[Meridian](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Meridian)** | A cool project I&#39;m working on | TypeScript | 0 |
+| **[3d_world](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;3d_world)** | A cool project I&#39;m working on | TypeScript | 0 |
 
 </div>
 
@@ -157,7 +157,7 @@ Other        40 mins               ▒░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Thursday, July 9th 2026, 3:20 PM</i><br/>
+  <i>Last refresh: Thursday, July 9th 2026, 7:52 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

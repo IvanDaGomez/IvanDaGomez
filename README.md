@@ -127,7 +127,7 @@ Other        7 mins                ▓░░░░░░░░░░░░░░
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[3d_world](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;3d_world)** | A cool project I&#39;m working on | TypeScript | 0 |
+| **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 
 </div>
 
@@ -161,7 +161,7 @@ Other        7 mins                ▓░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Wednesday, July 29th 2026, 10:04 PM</i><br/>
+  <i>Last refresh: Thursday, July 30th 2026, 2:45 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

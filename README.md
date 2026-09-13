@@ -23,7 +23,7 @@ Python   4 mins                ████████████████�
 ## 🌟 **GitHub Stats**
 <div align="center">
   
-![Followers](https://img.shields.io/badge/Followers-9-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-10-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-11-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-25-blue?style=for-the-badge&logo=github)
 
@@ -154,7 +154,7 @@ Python   4 mins                ████████████████�
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Saturday, September 12th 2026, 10:54 PM</i><br/>
+  <i>Last refresh: Sunday, September 13th 2026, 11:27 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

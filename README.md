@@ -122,8 +122,8 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
 | **[expoandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;expoandes)** | ExpoAndes repo for documentation | TypeScript | 0 |
 | **[Uniandes](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Uniandes)** | Uniandes repository | TypeScript | 0 |
 | **[Machine-Learning](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;Machine-Learning)** | A repo I use to learn data science, machine and deep learning  | Jupyter Notebook | 0 |
+| **[3d_world](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;3d_world)** | A cool project I&#39;m working on | TypeScript | 0 |
 | **[IvanDaGomez](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;IvanDaGomez)** | A cool project I&#39;m working on | JavaScript | 0 |
-| **[skills-introduction-to-github](https:&#x2F;&#x2F;github.com&#x2F;IvanDaGomez&#x2F;skills-introduction-to-github)** | My clone repository | Various technologies | 0 |
 
 </div>
 
@@ -157,7 +157,7 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Saturday, October 3rd 2026, 11:39 PM</i><br/>
+  <i>Last refresh: Sunday, October 4th 2026, 5:14 AM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 

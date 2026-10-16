@@ -28,7 +28,7 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
 ## 🌟 **GitHub Stats**
 <div align="center">
   
-![Followers](https://img.shields.io/badge/Followers-10-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-9-blue?style=for-the-badge&logo=github)
 ![Following](https://img.shields.io/badge/Following-11-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-25-blue?style=for-the-badge&logo=github)
 
@@ -159,7 +159,7 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
 
 <p align="center">
   <i>This README is generated <b>every 3 hours</b>!</i><br/>
-  <i>Last refresh: Friday, October 16th 2026, 3:58 AM</i><br/>
+  <i>Last refresh: Friday, October 16th 2026, 4:23 PM</i><br/>
   <a href="https://github.com/IvanDaGomez/IvanDaGomez">🔄 Create your own dynamic README!</a>
 </p>
 
